@@ -1,0 +1,13 @@
+[
+  "tests/test_tracker.py::test_by_model_breakdown",
+  "tests/test_tracker.py::test_cached_tokens_cheaper",
+  "tests/test_tracker.py::test_clear",
+  "tests/test_tracker.py::test_cost_math",
+  "tests/test_tracker.py::test_decorator_logs_call",
+  "tests/test_tracker.py::test_estimate_cost_unknown_model",
+  "tests/test_tracker.py::test_export_csv",
+  "tests/test_tracker.py::test_log_and_summary",
+  "tests/test_tracker.py::test_recent_ordering",
+  "tests/test_tracker.py::test_tag_filter",
+  "tests/test_tracker.py::test_unknown_model_zero_cost"
+]
